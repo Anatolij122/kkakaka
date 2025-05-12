@@ -63,14 +63,14 @@ nav a:hover {
     padding: 20px;
 }
 
-.lecture-box {
+.practice-box {
     background-color: #f3d58a;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
 }
 
-.lecture-box h2 {
+.practice-box h2 {
     margin-top: 0;
     color: #734d00;
 }
