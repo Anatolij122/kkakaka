@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Преміум акаунт</title>
+  <link rel="stylesheet" href="prem.css">
+</head>
+<body>
+  <header>
+        <div class="circle">
+        <section class="oclock">
+            <div class="line1"></div>
+            <div class="line2"></div>
+        </section>
+    </div>
+        <p class="time">ПН-СБ, 8:00 - 19:00</p>
+    </header>
+    <div class="href"></div>
+  <section class="hero">
+       <div class="button"><a href="first.html" class="a0">Головна</a></div>
+       <div class="button1"><a href="vstup.html" class="a1">Вступ</a></div>
+       <div class="button2"><a href="prem.html" class="a2">Преміум</a></div>
+       <div class="button3"><a href="lekcii.html" class="a3">Лекції</a></div>
+       <div class="button4"><a href="prekt.html" class="a4">Практичні</a></div>
+       <div class="button5"><a href="pronas.html" class="a5">Про нас</a></div>
+       <div class="button6"><a href="Index.html" class="a6">Увійти</a></div>
+       <div class="button7"><a href="Registration.html" class="a7">Реєстрація</a></div>
+  </section>
+
+  <main>
+    <h2>Преміум акаунт</h2>
+    <div class="premium-box">
+      <p>Отримайте повний доступ до лекцій, практичних занять, індивідуального супроводу та ексклюзивних матеріалів.</p>
+
+      <form>
+        <label>Введіть електронну пошту:</label>
+        <input type="email" placeholder="Email">
+
+        <label>Виберіть тариф:</label>
+        <select>
+          <option>1 місяць — 199 грн</option>
+          <option>3 місяці — 499 грн</option>
+          <option>6 місяців — 899 грн</option>
+        </select>
+
+        <button type="submit">Оформити Преміум</button>
+      </form>
+    </div>
+  </main>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ukr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main</title>
+    <link rel="stylesheet" href="Style/style.css">
+</head>
+<body>
+    <header>
+        <div class="circle">
+        <section class="oclock">
+            <div class="line1"></div>
+            <div class="line2"></div>
+        </section>
+        </div>
+        <p class="time">ПН-СБ, 8:00 - 19:00</p>
+        <div class="href"></div>
+   
+    </header>
+    <section class="hero">
+       <div class="button"><a href="#" class="a0">Головна</a></div>
+       <div class="button1"><a href="#" class="a1">Вступ</a></div>
+       <div class="button2"><a href="#" class="a2">Преміум</a></div>
+       <div class="button3"><a href="#" class="a3">Лекції</a></div>
+       <div class="button4"><a href="#" class="a4">Практичні</a></div>
+       <div class="button5"><a href="Pro.html" class="a5">Про нас</a></div>
+       <div class="button6"><a href="Index.html" class="a6">Увійти</a></div>
+       <div class="button7"><a href="Registration.html" class="a7">Реєстрація</a></div>
+    </section>
+    <section class="main">
+        
+    </section>
+</body>
+</html>

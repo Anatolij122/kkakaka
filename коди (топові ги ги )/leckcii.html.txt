@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Лекції</title>
+    <link rel="stylesheet" href="lekcii.css">
+</head>
+<body>
+      <header>
+        <div class="circle">
+        <section class="oclock">
+            <div class="line1"></div>
+            <div class="line2"></div>
+        </section>
+        </div>
+        <p class="time">ПН-СБ, 8:00 - 19:00</p>
+         
+    </header>
+    <div class="href"></div>    
+  <section class="hero">
+       <div class="button"><a href="first.html" class="a0">Головна</a></div>
+       <div class="button1"><a href="vstup.html" class="a1">Вступ</a></div>
+       <div class="button2"><a href="prem.html" class="a2">Преміум</a></div>
+       <div class="button3"><a href="lekcii.html" class="a3">Лекції</a></div>
+       <div class="button4"><a href="prekt.html" class="a4">Практичні</a></div>
+       <div class="button5"><a href="pronas.html" class="a5">Про нас</a></div>
+       <div class="button6"><a href="Index.html" class="a6">Увійти</a></div>
+       <div class="button7"><a href="Registration.html" class="a7">Реєстрація</a></div>
+    </section>
+
+    <div class="sidebar">
+        <div class="ad-box">ТУТ МОЖЕ БУТИ ВАША РЕКЛАМА</div>
+        <div class="ad-box">ТУТ МОЖЕ БУТИ ВАША РЕКЛАМА</div>
+        <div class="ad-box">ТУТ МОЖЕ БУТИ ВАША РЕКЛАМА</div>
+    </div>
+
+    <div class="content">
+        <div class="lecture-box">
+            <h2>Лекції</h2>
+            <p>Тут ви знайдете перелік доступних лекцій, які допоможуть вам у навчальному процесі. Вони охоплюють різноманітні теми та подані у зручному для вивчення форматі.</p>
+        </div>
+    </div>
+</body>
+</html>

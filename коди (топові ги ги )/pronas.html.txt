@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ukr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Про нас</title>
+    <link rel="stylesheet" href="pronas.css">
+</head>
+<body>
+    <header>
+        <div class="circle">
+            <section class="oclock">
+                <div class="line1"></div>
+                <div class="line2"></div>
+            </section>
+        </div>
+        <p class="time">ПН-СБ, 8:00 - 19:00</p>
+        <div class="href"></div>
+    </header>
+
+    <section class="hero">
+               <div class="button"><a href="first.html" class="a0">Головна</a></div>
+       <div class="button1"><a href="vstup.html" class="a1">Вступ</a></div>
+       <div class="button2"><a href="prem.html" class="a2">Преміум</a></div>
+       <div class="button3"><a href="lekcii.html" class="a3">Лекції</a></div>
+       <div class="button4"><a href="prekt.html" class="a4">Практичні</a></div>
+       <div class="button5"><a href="pronas.html" class="a5">Про нас</a></div>
+       <div class="button6"><a href="login.html" class="a6">Увійти</a></div>
+       <div class="button7"><a href="Registration.html" class="a7">Реєстрація</a></div>
+    </section>
+
+    <section class="main">
+    </section>
+
+    <main>
+        <p class="Prona">Про нас</p>
+        <p class="Prona">
+            Ми — команда ентузіастів освіти, яка прагне зробити навчання простішим і доступнішим. 
+            Наш сайт створено для школярів, студентів та вчителів, які щодня стикаються з викликами у навчальному процесі.
+        </p>
+        <section class="vid">
+            <img src="dwa.jpg" alt="" class="man">
+            <div class="bub"></div>
+            <div class="turk"></div>
+        </section>
+        <p class="prop">
+            Що ми пропонуємо:
+            <ul class="prop1">
+                <li>
+                    Готові матеріали: презентації, плани уроків, лабораторні, приклади розв’язання задач.
+                </li>
+                <li>
+                    Інтерактивні тести та тренажери для самоперевірки та підготовки до контрольних, ДПА, ЗНО / НМТ.
+                </li>
+                <li>
+                    Зручний пошук, щоб швидко знаходити потрібну інформацію.
+                </li>
+            </ul>
+        </p>
+        <ul class="prop2">Наша мета
+            <li class="prop3">
+                Ми прагнемо скоротити час на пошук інформації та зменшити стрес від навчання. Наш ресурс — це підтримка у підготовці, викладанні та засвоєнні знань.
+            </li>
+        </ul>
+        
+    </main>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Реєстрація</title>
+    <link rel="stylesheet" href="registration.css">
+</head>
+<body>
+    <header>
+        <div class="circle">
+        <section class="oclock">
+            <div class="line1"></div>
+            <div class="line2"></div>
+        </section>
+        </div>
+        <p class="time">ПН-СБ, 8:00 - 19:00</p>
+        <div class="href"></div>
+    </header>
+    <section class="hero">
+             <div class="button"><a href="first.html" class="a0">Головна</a></div>
+       <div class="button1"><a href="vstup.html" class="a1">Вступ</a></div>
+       <div class="button2"><a href="prem.html" class="a2">Преміум</a></div>
+       <div class="button3"><a href="lekcii.html" class="a3">Лекції</a></div>
+       <div class="button4"><a href="prekt.html" class="a4">Практичні</a></div>
+       <div class="button5"><a href="pronas.html" class="a5">Про нас</a></div>
+       <div class="button6"><a href="login.html" class="a6">Увійти</a></div>
+       <div class="button7"><a href="Registration.html" class="a7">Реєстрація</a></div>
+     </section>
+     <section class="main">
+        <section class="rec">
+        <h1 align="center" class="mainVhid">Створити новий обліковий запис</h1>
+        <input type="text" placeholder="Введіть логін" class="Login1">
+        <input type="password" placeholder="Введіть пароль" class="Password2">
+        <input type="Adress" placeholder="Введіть адресу електронної почти" class="Adress">
+        <input type="text" placeholder="Прізвище" class="Surname">
+        <input type="text" placeholder="Ім'я" class="Name">
+        <input type="text" placeholder="Ім'я по батькові" class="Pname">
+        <input type="text" placeholder="Місто проживання" class="City">
+        <input type="text" placeholder="Країна" class="Country">
+    </section>
+        <div class="Vhid1">
+            <p class="vh1">Реєстрація</p>
+        </div>
+        <div class="vel1">
+            <p class="question1">
+                У вас вже є обліковий запис?
+            </p>
+            <div class="res">
+                <p class="rees1">Увійти</p>
+            </div>
+        </div>
+        <img src="/Image/Reclam.png" alt="" class="Reclam1">
+        <img src="/Image/Reclam.png" alt="" class="Reclam2">
+        <img src="/Image/Reclam.png" alt="" class="Reclam3">
+        <img src="/Image/Reclam.png" alt="" class="Reclam4">
+        <img src="/Image/Reclam.png" alt="" class="Reclam5">
+        <img src="/Image/Reclam.png" alt="" class="Reclam6">
+    </section>
+    
+</body>
+</html>

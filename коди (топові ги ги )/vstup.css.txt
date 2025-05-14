@@ -1,0 +1,296 @@
+body {
+    background-color: rgb(255, 253, 207);
+    font-family: 'Georgia', serif;
+    color: #663300;
+    margin: 0;
+    padding: 0;
+  }
+
+  header
+  {
+    width: 100%;
+    height: 68px;
+.circle
+{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(228, 188, 97) ;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+    left: 5px;  
+}
+.href
+{
+    width: 100%;
+    height: 4px;
+    background-color: rgb(228, 188, 97);
+    border-radius: 30px;
+    position: relative;
+    top: -68px;
+    left: 0px;
+}
+.line1
+{
+    width: 20px;
+    height: 5px;
+    border-radius: 30px;
+    background-color:rgb(255, 253, 207);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.line2
+{
+    width: 20px;
+    height: 5px;
+    border-radius: 30px;
+    background-color :rgb(255, 253, 207);
+    position: relative;
+    top: -13px;
+    right: 8px;
+    rotate: 90deg;
+}
+.oclock
+{
+   position: relative;
+   top: 25px;
+   left: 20px; 
+}
+.time
+{
+    position: relative;
+    top: -60px;
+    left: 75px;
+    color:rgb(154, 82, 0);
+    text-shadow: 
+    -0.4px -0.4px 0 black,
+     0.4px -0.4px 0 black,
+    -0.4px  0.4px 0 black,
+     0.4px  0.4px 0 black;
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(228, 188, 97);
+}
+  }
+  .header {
+    background-color: #fff8d8;
+    border-bottom: 2px solid #d2a34f;
+    padding: 10px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: center;
+    background-color: #fff8d8;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .nav a {
+    padding: 8px 20px;
+    background-color: #dba94c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    border: 2px solid #a6782a;
+  }
+
+  .nav a.active {
+    background-color: #f3d68f;
+    color: #663300;
+  }
+
+  .content {
+    max-width: 600px;
+    margin: 30px auto;
+    background-color: #fff3cc;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #d2a34f;
+    color: #a6782a;
+  }
+
+  .content h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .content p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .photo {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .photo img {
+    max-width: 100%;
+    border: 3px solid #dba94c;
+    border-radius: 10px;
+  }
+
+.btn {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #faa404;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn.bright {
+    background-color: #faa404;
+    color: white;
+    }   
+    .hero
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    div{
+        width: 120px;
+        height: 30px;
+        background-color: rgb(228, 188, 97);
+        border-radius: 10px;
+    }
+    a{
+        text-decoration: none;
+        font-size: 26;
+        text-align: center;
+        color: rgb(136, 112, 56);
+        font-size: 20px;
+        
+        font-weight: bold;
+    }
+    .a0{
+        position: relative;
+        top: 3px;
+        left: 17px;
+        color: rgb(136, 68, 126);
+    }
+    .a1{
+        position: relative;
+        top: 3px;
+        left: 30px;
+        color: rgb(136, 68, 126);
+    }
+    .a2
+    {
+        position: relative;
+        top:3px;
+        left: 20px;
+       
+    }
+    .a3
+    {
+        position: relative;
+        top:3px;
+        left: 30px;
+    }
+    .a4
+    {
+        position: relative;
+        top:3px;
+        left: 2px;
+    }
+    .a5
+    {
+        position: relative;
+        top:3px;
+        left:20px 
+    }
+    .a6
+    {
+        position: relative;
+        top:3px;
+        left:28px 
+    }
+    .a7
+    {
+        position: relative;
+        top:3px;
+        left:2px 
+    }
+    .button
+    {
+      position: relative;
+        top: 8px;
+        left: 0px;
+        margin-left: 10px;
+        background-color: rgb(242, 203, 236);
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    }
+    .button1{
+        position: relative;
+        top: -24px;
+        left: 140px;
+        margin-left: 10px;
+        background-color: rgb(242, 203, 236);
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    }
+    .button2{
+        position: relative;
+        top: -57px;
+        left: 280px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    }
+    .button3{
+      position: relative;
+        top: -90px;
+        left: 420px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    }
+    .button4{
+        position: relative;
+        top: -123px;
+        left: 560px;
+        margin-left: 10px;  
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    } 
+    .button5{
+        position: relative;
+        top: -156px;
+        left: 700px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    } 
+    .button6{
+        position: relative;
+        top: -189px;
+        left: 1200px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    } 
+    .button7{
+        position: relative;
+        top: -222px;
+        left: 1340px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    } 
+}

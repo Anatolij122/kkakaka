@@ -1,0 +1,582 @@
+body{
+    background-color:rgb(255, 253, 207)
+}
+header{
+    width: 100%;
+    height: 68px;
+.circle
+{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(228, 188, 97) ;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+    left: 5px;  
+}
+
+.line1
+{
+    width: 20px;
+    height: 5px;
+    border-radius: 30px;
+    background-color:rgb(255, 253, 207);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.line2
+{
+    width: 20px;
+    height: 5px;
+    border-radius: 30px;
+    background-color :rgb(255, 253, 207);
+    position: relative;
+    top: -13px;
+    right: 8px;
+    rotate: 90deg;
+}
+.oclock
+{
+   position: relative;
+   top: 25px;
+   left: 20px; 
+}
+.time
+{
+    position: relative;
+    top: -60px;
+    left: -550px;
+    color:rgb(154, 82, 0);
+    text-shadow: 
+    -0.4px -0.4px 0 black,
+     0.4px -0.4px 0 black,
+    -0.4px  0.4px 0 black,
+     0.4px  0.4px 0 black;
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(228, 188, 97);
+}
+}
+.href
+{
+    width: 100%;
+    height: 4px;
+    background-color: rgb(228, 188, 97);
+    border-radius: 30px;
+    position: relative;
+    top: 0  px;
+    left: 0px;
+}
+.hero
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    div{
+        width: 120px;
+        height: 30px;
+        background-color: rgb(228, 188, 97);
+        border-radius: 10px;
+    }
+    a{
+        text-decoration: none;
+        font-size: 26;
+        text-align: center;
+        color: rgb(136, 112, 56);
+        font-size: 20px;
+        
+        font-weight: bold;
+    }
+    .a0
+    {
+position: relative;
+        top: 3px;
+        left: 23px;
+        color: rgb(136, 68, 126);
+    }
+    .a1{
+       position: relative;
+        top:3px;
+        left: 33px;
+        color: rgb(136, 68, 126);  
+    }
+    .a2
+    {
+       position: relative;
+        top:3px;
+        left: 22px;
+    }
+    .a3
+    {
+       position: relative;
+        top:3px;
+        left:30px  
+    }
+    .a4
+    {
+        position: relative;
+        top:3px;
+        left:10px 
+    }
+    .a5
+    {
+       position: relative;
+        top:3px;
+        left:24px  
+    }
+    .a6
+    {
+     position: relative;
+        top:3px;
+        left:28px   
+    }
+    .a7
+    {
+        position: relative;
+        top:3px;
+        left:12px 
+    }
+    .button
+    {
+      position: relative;
+        top: 8px;
+        left: 0px;
+        margin-left: 10px;
+        background-color: rgb(242, 203, 236);
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;  
+    }
+    .button1{
+       position: relative;
+        top: -25px;
+        left: 140px;
+        margin-left: 10px;
+        background-color: rgb(242, 203, 236);
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown; 
+    }
+    .button2{
+    position: relative;
+        top: -58px;
+        left: 280px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;     
+    }
+    .button3{
+       position: relative;
+        top: -91px;
+        left: 420px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    }
+    .button4{
+        position: relative;
+        top: -123px;
+        left: 560px;
+        margin-left: 10px;  
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    } 
+    .button5{
+        position: relative;
+        top: -156px;
+        left: 700px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;
+    } 
+    .button6{
+      position: relative;
+        top: -191px;
+        left: 1200px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;  
+    } 
+    .button7{
+      position: relative;
+        top: -225px;
+        left: 1345px;
+        margin-left: 10px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: saddlebrown;   
+    } 
+}
+.main
+{
+    .Login
+    {
+       width: 500px; 
+       min-height: 50px;
+       font-size: 26px;
+       text-align: center;
+       position: relative;
+       top: 0px;
+       left: 530px;
+    }
+    .Login1
+    {
+       width: 500px; 
+       min-height: 50px;
+       font-size: 26px;
+       text-align: center;
+       position: relative;
+       top: 0px;
+       left: 45px;
+    }
+    .Password
+    {
+       width: 500px; 
+       min-height: 50px;
+       font-size: 26px;
+       text-align: center;
+       position: relative;
+       top: 0px;
+       left: 530px;
+    }
+    .Password2
+    {
+       width: 500px; 
+       min-height: 50px;
+       font-size: 26px;
+       text-align: center;
+       position: relative;
+       top: 15px;
+       left: 45px;
+    }
+    .Adress
+    {
+        width: 500px; 
+        min-height: 50px;
+        font-size: 26px;
+        text-align: center;
+        position: relative;
+        top: 30px;
+        left: 45px;   
+    }
+    .h1{
+        height: auto;
+        width: 500px;
+        position: relative;
+        top: 10px;
+        left: 530px;
+        color: rgb(154, 82, 0);
+    }
+    .h2{
+        height: auto;
+        width: 500px;
+        position: relative;
+        top: 10px;
+        left: 530px;
+        color: rgb(154, 82, 0);
+    }
+    
+    .h3{
+        height: auto;
+        width: 500px;
+        position: relative;
+        top: 0px;
+        left: 475px;
+        color: rgb(154, 82, 0);
+    }
+    
+    .h4
+    {
+        height: auto;
+        width: 500px;
+        position: relative;
+        top: -40px;
+        left: 960px;
+        color: rgb(154, 82, 0);
+    }
+    
+    .redflag
+    {
+        width: 20px;
+        height: 20px;
+        position: relative;
+        top: -83px;
+        left: 445px;
+    }
+    .Surname
+    {
+        width: 500px; 
+        min-height: 50px;
+        font-size: 26px;
+        text-align: center;
+        position: relative;
+        top: 45px;
+        left: 45px;
+    }
+    .Name
+    {
+        width: 500px; 
+        min-height: 50px;
+        font-size: 26px;
+        text-align: center;
+        position: relative;
+        top: 60px;
+        left: 45px;
+    }
+    .Pname
+    {
+        width: 500px; 
+        min-height: 50px;
+        font-size: 26px;
+        text-align: center;
+        position: relative;
+        top: 75px;
+        left: 45px;
+    }
+    .City
+    {
+        width: 500px; 
+        min-height: 50px;
+        font-size: 26px;
+        text-align: center;
+        position: relative;
+        top: 90px;
+        left: 45px;
+    }
+    .Country
+    {
+        width: 500px; 
+        min-height: 50px;
+        font-size: 26px;
+        text-align: center;
+        position: relative;
+        top: 105px;
+        left: 45px;
+    }
+    .rec
+    {
+        width: 600px;
+        height: 620px;
+        background-color: rgb(228, 188, 97);
+        position: relative;
+        top: 0px;
+        left: 500px;
+        border-radius: 30px;
+        border-width: 3px;
+        border-style: solid;
+        border-color: rgb(154, 82, 0);
+        margin-top: 25px;
+    }
+    .Vhid
+    {
+        width: 500px;
+        height: 50px;
+        background-color: white;
+        position: relative;
+        left: 530px ;
+        text-align: center;
+        border-radius: 15px;
+        border-style: solid;
+        border-width: 3px;
+        border-color: rgb(228, 188, 97);
+        .vh{
+            position: relative;
+            top: -5px;
+            font-size: 20px;
+            color: rgb(154, 82, 0);
+            font-weight: bold;
+            }
+            
+    }
+    .Vhid1
+    {
+        width: 500px;
+        height: 50px;
+        background-color: white;
+        position: relative;
+        top: 50px;
+        left: 548px ;
+        text-align: center;
+        border-radius: 15px;
+        border-style: solid;
+        border-width: 3px;
+        border-color: rgb(228, 188, 97);
+        .vh1{
+            position: relative;
+            top: -5px;
+            font-size: 20px;
+            color: rgb(154, 82, 0);
+            font-weight: bold;
+            }
+            
+    }
+    .vel
+    {
+        width: 500px;
+        height: 100px;
+        background-color: rgb(228, 188, 97);
+        position: relative;
+        top: 10px;
+        left: 530px;
+        border-radius: 15px;
+    }
+    .vel1
+    {
+        width: 500px;
+        height: 100px;
+        background-color: rgb(228, 188, 97);
+        position: relative;
+        top: 50px;
+        left: 550px;
+        border-radius: 15px;
+    }
+    .question
+    {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        color: rgb(154, 82, 0);
+    }
+    .question1
+    {
+        text-align: center;
+        position: relative;
+        top: 10px;
+        color: rgb(154, 82, 0);
+    }
+    .res
+    {
+        width: 400px;
+        height: 50px;
+        background-color: white;
+        border-radius: 10px;
+        position: relative;
+        top: -10px;
+        left: 50px;
+    }
+    .rees
+    {
+        position: relative;
+        top: 13px;
+        left: 0px;
+        font-size: 20px;
+        color: rgb(154, 82, 0);
+        font-weight: bold;
+    }
+    .rees1
+    {
+        text-align: center;
+        position: relative;
+        top: 13px;
+        font-size: 20px;
+        color: rgb(154, 82, 0);
+        font-weight: bold;
+    }
+    .mainVhid
+    {
+        color: rgb(154, 82, 0);
+    }
+    .Reclam1{
+        position: absolute;
+        top: 150px;
+        left: 1300px;
+    }
+    .Reclam2{
+        position: absolute;
+        top: 400px;
+        left: 1300px;
+    }
+    .Reclam3{
+        position: absolute;
+        top: 650px;
+        left: 1300px;
+    }
+    .Reclam4{
+        position: absolute;
+        top: 150px;
+        left: 10px;
+    }
+    .Reclam5{
+        position: absolute;
+        top: 400px;
+        left: 10px;
+    }
+    .Reclam6{
+        position: absolute;
+        top: 650px;
+        left: 10px;
+    }
+    
+}
+.Prona
+    {
+        font-size: 24px;
+        color: rgb(154, 82, 0);
+        text-align: center;
+    }
+.man{
+    height: 325px;
+    width: 500px;
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+.bub
+{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(0, 0, 0, 0.728);
+    border-radius: 100%;
+    position: absolute;
+    top: 425px;
+    left: 725px;
+}
+.turk{
+width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom:25px solid rgba(255, 255, 255, 0.838);
+    rotate: 90deg;
+    position: absolute;
+    top: 437px;
+    left: 739px;
+}
+p
+{
+    font-size: 24px;
+        color: rgb(154, 82, 0);
+        text-align: center;
+}
+.prop{
+    position: relative;
+    top: 350px;
+}
+.prop1
+{
+    position: relative;
+    top: 350px;
+    left: 250px;
+    font-size: 24px;
+    color: rgb(154, 82, 0);
+}
+.prop2
+{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-size: 24px;
+    color: rgb(154, 82, 0);
+}
+.prop3
+{
+    position: relative;
+    font-size: 24px;
+    color: rgb(154, 82, 0);
+}
